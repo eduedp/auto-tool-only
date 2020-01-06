@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": true,
+    "name": "AutoToolOnly",
+    "author": "edu / NMods",
+    "description": "Automates gathering tools",
+    "servers": ["https://raw.githubusercontent.com/eduedp/auto-tool-only/master/"],
+    "options": {
+        "reloadable": true,
+        "settingsVersion": 1,
+        "settingsFile": "config.json"
+    }
+}
