@@ -1,22 +1,18 @@
 {
-	"files": {
-		"config.json": {
-			"overwrite": false,
-			"hash": "486726e5b098a97ee4a614d0754b2ed7dc4dd5b006f7e1b33a09979eafeaf5bb"
-		},
-		"index.js": "ce1c4792f5ce02f423a1096bdf5207ad308db3db3c7533098298fee21a25b16c",
-		"module.json": "1a4b8726f85d99b28a1b1a1ebb8159f35af07522e337ae75b1c7d14d54878b5c"
-	},
-	"defs": {
-		"C_PLAYER_FLYING_LOCATION": 4,
-		"C_PLAYER_LOCATION": 5,
-		"C_USE_ITEM": 3,
-		"S_DESPAWN_COLLECTION": 2,
-		"S_DESPAWN_DROPITEM": 4,
-		"S_INVEN": 18,
-		"S_SPAWN_COLLECTION": 4,
-		"S_SPAWN_DROPITEM": 7,
-		"S_SPAWN_ME": 3,
-		"S_SYSTEM_MESSAGE": 1
-	}
+    "files": {
+        "README.md": "c9569bfe85004a904fc18244be94a72581e88a771afe16e59b8e382fdcd1643c",
+        "config.json": "0ac0793038880bdabc913a28bdd43cb2c3ca96661373dd8981d61c50a52fb566",
+        "index.js": "2899dc84bf0f9d81be4b110ee02068cac99ac04c7a3120f7524e305f22991842",
+        "module.json": "7375d7c094b2c765c5cbc3911b39d9f000707dd1ed17976313992547a7226ca2",
+        "module_settings_migrator.js": "41fd4820c8fac201f432a35aacf3019523924b7d1b71101139673148c50b3ad3"
+    },
+    "defs": {
+        "C_PLAYER_FLYING_LOCATION": 4,
+        "C_PLAYER_LOCATION": 5,
+        "C_USE_ITEM": 3,
+        "S_DESPAWN_COLLECTION": 2,
+        "S_SPAWN_COLLECTION": 4,
+        "S_SPAWN_ME": 3,
+        "S_SYSTEM_MESSAGE": 1
+    }
 }

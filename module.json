@@ -1,5 +1,5 @@
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "name": "AutoToolOnly",
     "author": "edu / NMods",
     "description": "Automates gathering tools",
